@@ -16,3 +16,7 @@
 
 Запуск программы под Ubuntu производится аналогично любой другой программе под  Ubuntu
 процесс запуска программы под PocketBook описан в записке к курсовому в соответствующем разделе
+
+**Preview**
+
+![prev](https://raw.githubusercontent.com/TsentsevitskyDmitry/PB622_bookshelf/master/bin/photo5454105074734312199.jpg)
